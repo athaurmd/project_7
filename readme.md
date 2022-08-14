@@ -16,7 +16,7 @@ more on this drop-shadow,click below link
    1.5 Hours
 
  ## Live link of the project
- [Netlify-link](https://homepage-landing-websites.netlify.app)  
+ [Netlify-link](https://62f7a2646b267d235a98cfec--homepage-landing-websites.netlify.app/)  
 
  ### Feedback
 
