@@ -195,5 +195,108 @@ nav :last-child{
 }
 
 
-
+@media screen and (max-width:700px){
+    nav{
+        flex-direction: column;
+    }
+    nav:first-child img{
+        align-self: center;
+        width: 30%; 
+    }
+    .icons{
+        display: none;
+    }
+    .nav-items{
+        margin-top: 80px;
+        padding-left: 50px;
+        gap: 120px;
+    }
+    .intro-section{
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .left-section{
+        flex-direction:column;    
+        gap: 20px   ;
+    }
+    .left-section h3{
+        font-size: 30px;
+        font-family: 'Fredoka',sans-serif;
+        font-weight: 400;
+        margin-top: 45px;
+    }
+    .left-section >h3>img{
+        height: 15px;
+    }
+    .left-section h1{
+        font-size: 50px;
+    }
+    .sub-headlines{
+        margin-left: 15px;
+        margin-top: 10px;
+        font-size: 20px;
+    }
+    .sub-headlines>h5>img{
+        width: 15px;
+        height: 15px;
+    }
+    .sub-headline{
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+    .sub-headline img{
+        margin-right: 15px;
+    }
+    .text{
+        margin-top: 25px;
+        width: 100%;
+    }
+    .action-btns{
+        margin-top: 25px;
+    }
+    .action-btn{
+        font-size: 15px;
+        padding: 10px 15px 10px 15px;
+        margin-right: 10px;
+        margin-top: 20px;
+    }
+    .right-section{
+        mix-blend-mode: multiply;
+        margin-left: -90px;
+    }
+    .discount-content {
+        top: 29rem;
+        right: 13.5rem;
+    }
+    .discount-content h4{
+        font-size: 18px;
+    }
+    .discount-content h1{
+        font-size: 35px;
+    }
+    .headphone{
+        margin-left: 180px;
+    }
+    .headphone-div img:first-child{
+        top: 200px;    
+        left: 140px;
+        width: 120px;
+    }
+    .headphone-div img:last-child{
+        height: 330px;
+        top: -30px;
+        right: 30px;
+    }
+    .dots
+    {
+        height: 80px;
+        width: 150px;
+        margin-left: 240px;
+        margin-top: 10px;
+    }
+    .right-section button{
+        margin-left: 250px;
+        padding: 10px 25px;
+    }
+}
 
