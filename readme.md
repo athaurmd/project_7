@@ -16,7 +16,7 @@ more on this drop-shadow,click below link
    1.5 Hours
 
  ## Live link of the project
- [Netlify-link](headphone-landing-webpage.netlify.app)  
+ [Netlify-link](https://headphone-landing-webpage.netlify.app/)
 
  ### Feedback
 
